@@ -1,9 +1,16 @@
-# AWS-QuickSight-Project
-Visualize Data with QuickSight
 
--AWS Services Used: A list of the AWS services utilized in the project.
--Documentation: A PDF file documenting what I have learned and accomplished throughout the project.
--LinkedIn Post: A description of the innovative ideas I've added to the project. Likes, comments, and feedback are welcome!
--Project Tutorial: A link to NextWork tutorial for detailed guidelines on how to build the same project.
-<img width="726" alt="002_Visualize Data with QuickSight" src="https://github.com/user-attachments/assets/73888ff9-e6dc-4a8a-bc82-ed7165d00a0c" />
+* <b>AWS Services Used:</b> A list of the AWS services utilized in the project.
+* <b>Documentation:</b> A PDF file documenting what I have learned and accomplished throughout the project.
+
+# Projects
+- [Visualize Data with QuickSight](https://github.com/karenwky/aws-project-nextwork/?tab=readme-ov-file#visualize-data-with-quicksight)
+<br/><br/>
+
+## Visualize Data with QuickSight
+<img src="https://github.com/karenwky/aws-project-nextwork/blob/main/img/002_Visualize%20Data%20with%20QuickSight.png" width="600"></img>
+* Amazon QuickSight, Amazon S3
+* [Documentation](https://github.com/karenwky/aws-project-nextwork/blob/main/pdf/002_Visualize%20Data%20with%20QuickSight.pdf)
+* [LinkedIn Post](https://www.linkedin.com/posts/wongkayankaren_nextwork-aws-project-visualize-data-with-activity-7245357425099210752-KDvg?utm_source=share&utm_medium=member_desktop)
+* [Project Tutorial](https://learn.nextwork.org/projects/aws-analytics-quicksight)
+<br/><br/>
 
